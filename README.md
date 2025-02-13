@@ -1,3 +1,6 @@
+---
+draft: true # Mark as draft so it doens't get included in the deployment
+---
 # Personal Website Content
 
 This repository contains the content for my personal website.
