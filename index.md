@@ -14,6 +14,8 @@ I have written some [[How-to guides]] to test out how quartz renders notes and l
 
 I also have a [[Projects]] page to showcase past projects.
 
+To follow my website for updates, subscribe using [RSS](https://liamtbrand.com/index.xml).
+
 ---
 
 If you want to cache this content locally, you can clone the git repo:
