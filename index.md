@@ -1,3 +1,6 @@
+---
+title: Personal Website
+---
 # Personal Website Content
 
 This is a markdown file in the repository for personal website content.
